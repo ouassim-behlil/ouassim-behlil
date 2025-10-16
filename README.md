@@ -13,12 +13,6 @@ Welcome to my GitHub profile! I'm a computer science student at **1337 School** 
 - **Contact**: [bahlil2001@gmail.com](mailto:bahlil2001@gmail.com)
 - **Website**: [ouassim-behlil.github.io](https://ouassim-behlil.github.io/)
 
-## GitHub Stats
-
-- **9 Public Repositories**
-- **5 Total Stars**
-- **1 Follower • 1 Following**
-
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
