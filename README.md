@@ -30,6 +30,13 @@ Currently learning(in depth) LLMs and RAG with C++(my favorite PL), because the 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ouassim-behlil&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouassim-behlil&show_icons=true&theme=dark&hide_border=true)
+
 
 ## Contact me
 
