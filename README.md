@@ -34,8 +34,7 @@ Currently learning(in depth) LLMs and RAG with C++(my favorite PL), because the 
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ouassim-behlil&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouassim-behlil&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ouassim-behlil)](https://git.io/streak-stats)
 
 
 ## Contact me
