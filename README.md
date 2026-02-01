@@ -1,11 +1,13 @@
-# Hi there, I'm Ouassim Behlil!
+# Hey, I'm Ouassim Behlil 👋
 
 > **git push limits**
-## About me
 
-Welcome to my GitHub profile! I'm a Ouassim, a Data scientist with strong coding skills and analytical mindset. I'm a consistent learner improving or/and getting new skills.
-During my Master degree, I had the opportunity to experience many fields, then I discovered that I love getting my hands dirty with AI models. Bugs... I love fixing bugs(as long as they make sens to me haha).
-Currently learning(in depth) LLMs and RAG with C++(my favorite PL), because the best way to do it is to do it slowly, with my logic(getting my own errors) and without watching tutorials.
+## About Me
+
+Welcome to my corner of GitHub. I’m Ouassim — a data scientist who enjoys coding a bit *too* much and thinks debugging is just a weird form of meditation.  
+During my master’s, I explored a bunch of fields before realizing that what really excites me is building and breaking AI models. Bugs don’t scare me; they just need to make sense… then we’re good.
+
+Right now, I’m going deep into LLMs and RAG, using C++ (yes, my favorite language — I know, unusual). I like learning things the slow, intentional way: building from scratch, making my own mistakes, and avoiding tutorials so I can actually understand what’s happening under the hood.
 
 ## 🛠️ Programming Languages
 
@@ -25,20 +27,18 @@ Currently learning(in depth) LLMs and RAG with C++(my favorite PL), because the 
 
 ---
 
-## ☁️ Cloud & DevOps Tools
+## ☁️ Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+
 ---
 
-## 📊 GitHub Activity
+## Contact
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ouassim-behlil)](https://git.io/streak-stats)
+If you feel like chatting — about tech, ideas, or even random jokes — my inbox is open.
 
+📧 [ouassimbehlil8@gmail.com](mailto:ouassimbehlil8@gmail.com)
 
-## Contact me
-
-Don't hesitate to contact me if you think we have something to discuss(even jokes).
-[ouassimbehlil8@gmail.com](mailto:ouassimbehlil8@gmail.com)
-*"The future is loading..."*
+*“The future is loading…”*
