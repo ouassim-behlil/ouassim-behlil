@@ -1,5 +1,6 @@
 # Hey, I'm Ouassim Behlil
 ![42 Profile](https://badge.mediaplus.ma/red/obehlil)
+![LeetCode Stats](https://leetcard.jacoblin.cool/behlil?theme=dark&font=Meera%20Inimai&ext=activity)
 
 > **git push limits**
 
